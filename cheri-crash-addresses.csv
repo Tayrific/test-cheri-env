@@ -1,0 +1,16 @@
+cheri-c-01-heap-buffer-over-read,0x80006170
+cheri-c-02-heap-buffer-over-write,0x80006174
+cheri-c-03-heap-buffer-under-write,0x8000617c
+cheri-c-04-stack-buffer-over-write,0x800060a2
+cheri-c-05-oob-pointer-arithmetic,0x8000617c
+cheri-c-06-use-after-free,0x800061e0
+cheri-c-07-double-free,0x8000326a
+cheri-c-08-type-confusion,0x80004a20
+cheri-c++-01-heap-buffer-over-read, 0x80006230
+cheri-c++-02-heap-buffer-over-write,0x80006226
+cheri-c++-03-heap-buffer-under-write,0x80006226
+cheri-c++-04-stack-buffer-over-write,0x8000626e
+cheri-c++-05-oob-pointer-arithmetic,0x80006258
+cheri-c++-06-use-after-free,0x80006282
+cheri-c++-07-double-free,0x8000326a
+cheri-c++-08-type-confusion,0x80004a20:
